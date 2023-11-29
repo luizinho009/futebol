@@ -7,6 +7,6 @@ h1 {
 p {
  text-align: center;
 }
-em strong {
+em, strong {
     color:#0000FF;
     }
